@@ -1,0 +1,9 @@
+<div class="custom-control custom-checkbox srchno-checkbox-wrap1">
+                        <input @change="toggleSrochno($event, 11104)"
+                               type="checkbox"
+                               name="order-srochno-122222"
+                               id="order-srochno-11456"
+                               class="custom-control-input srchno-checkbox"
+                               data-id="11104" >
+                        <label for="order-srochno-11104" class="custom-control-label">Блин</label>
+                    </div>
